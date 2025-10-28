@@ -12,7 +12,7 @@ export default defineConfig({
         changeOrigin: true,
       }
     },
-	allowedHosts: ['viscom.ddns.net']
+	allowedHosts: []
   },
   preview: {
     host: '0.0.0.0',
